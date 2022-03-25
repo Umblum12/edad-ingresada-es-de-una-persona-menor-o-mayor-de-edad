@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>edad_ingresada_es_de_una_persona_menor_o_mayor_de_edad</RootNamespace>
+  </PropertyGroup>
+
+</Project>
